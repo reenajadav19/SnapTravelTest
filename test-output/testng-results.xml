@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26719" started-at="2019-07-10T02:57:58Z" finished-at="2019-07-10T02:58:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26719" started-at="2019-07-10T02:57:58Z" finished-at="2019-07-10T02:58:25Z">
+      <class name="com.st.tests.SnapTravelTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.st.tests.SnapTravelTest@7c16905e]" name="beforeSuite" is-config="true" duration-ms="3703" started-at="2019-07-10T02:57:55Z" finished-at="2019-07-10T02:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="homepageTests()[pri:0, instance:com.st.tests.SnapTravelTest@7c16905e]" name="homepageTests" duration-ms="26696" started-at="2019-07-10T02:57:58Z" finished-at="2019-07-10T02:58:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageTests -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.st.tests.SnapTravelTest@7c16905e]" name="afterSuite" is-config="true" duration-ms="11821" started-at="2019-07-10T02:58:25Z" finished-at="2019-07-10T02:58:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.st.tests.SnapTravelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
